@@ -4,6 +4,6 @@
 
 
 void main(){
-  print("Fetch test");
+  print("Git Fetch");
 }
 
