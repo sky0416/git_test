@@ -2,6 +2,7 @@ cathy test
 
 
 modify for git_test2 to fetch/pull.
+modify for git_test3 to fetch/pull.
 
 modify for patch 01.
 
