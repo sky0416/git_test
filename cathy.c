@@ -1,5 +1,6 @@
 cathy test
 
+12345
 
 modify for git_test2 to fetch/pull.
 modify for git_test3 to fetch/pull.
