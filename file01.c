@@ -4,5 +4,6 @@
 
 
 void main(){
+  print("Fetch test");
 }
 
