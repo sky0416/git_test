@@ -1,0 +1,3 @@
+[submodule "tmp/sub_test"]
+	path = tmp/sub_test
+	url = https://github.com/sky0416/git_test.git
